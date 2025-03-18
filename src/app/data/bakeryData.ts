@@ -1,0 +1,98 @@
+export const cakes = [
+    {
+        id: 1,
+        name: "Milk Bread",
+        image: "https://res.cloudinary.com/dcpduosbb/image/upload/v1742031575/Milk_Bread_yc8stj.jpg",
+        price: 90,
+    },
+    {
+        id: 2,
+        name: "Premium Bread",
+        image: "https://res.cloudinary.com/dcpduosbb/image/upload/v1742031576/Premium_Bread_x2bs2f.jpg",
+        price: 90,
+    },
+    {
+        id: 3,
+        name: "Custard Bread",
+        image: "https://res.cloudinary.com/dcpduosbb/image/upload/v1742031535/Custard_Bread_sk4vrt.jpg",
+        price: 70,
+    },
+    {
+        id: 4,
+        name: "Angel Bread",
+        image: "https://res.cloudinary.com/dcpduosbb/image/upload/v1742031536/Angel_Bread_xd6kev.jpg",
+        price: 130,
+    },
+    {
+        id: 5,
+        name: "Low GI Bread",
+        image: "https://res.cloudinary.com/dcpduosbb/image/upload/v1742031571/Low_GI_Bread_eagfqp.jpg",
+        price: 140,
+    },
+    {
+        id: 6,
+        name: "Soft Fruit Loaf Bread",
+        image: "https://res.cloudinary.com/dcpduosbb/image/upload/v1742031576/Soft_Fruit_Loaf_Bread_mv4rzg.jpg",
+        price: 130,
+    },
+    {
+        id: 7,
+        name: "Butter Bun",
+        image: "https://res.cloudinary.com/dcpduosbb/image/upload/v1742031540/Butter_Bun_cpe4tk.jpg",
+        price: 50,
+    },
+    {
+        id: 8,
+        name: "Chicken Shawrma Bun",
+        image: "https://res.cloudinary.com/dcpduosbb/image/upload/v1742031545/Chicken_Shawrma_Bun_xnvzc8.jpg",
+        price: 130,
+    },
+    {
+        id: 9,
+        name: "Plain Cake",
+        image: "https://res.cloudinary.com/dcpduosbb/image/upload/v1742031573/Plain_Cake_n9nmss.jpg",
+        price: 280,
+    },
+    {
+        id: 10,
+        name: "Chocolate Dry Cake",
+        image: "https://res.cloudinary.com/dcpduosbb/image/upload/v1742031578/Chocolate_Dry_Cake_qvphoj.jpg",
+        price: 180,
+    },
+    {
+        id: 11,
+        name: "Dry Cake Biscuit",
+        image: "https://res.cloudinary.com/dcpduosbb/image/upload/v1742031566/Dry_Cake_Biscuit__yukinv.jpg",
+        price: 180,
+    },
+    {
+        id: 12,
+        name: "Coffeenut Cookies",
+        image: "https://res.cloudinary.com/dcpduosbb/image/upload/v1742031585/Coffeenut_Cookies_300gm_lgyalu.jpg",
+        price: 190,
+    },
+    {
+        id: 13,
+        name: "Chocolate Butter Cookies",
+        image: "https://res.cloudinary.com/dcpduosbb/image/upload/v1742031608/Chocolate_Butter_Cookies_300gm_qt8d8e.jpg",
+        price: 200,
+    },
+    {
+        id: 14,
+        name: "Premium Butter Cookies",
+        image: "https://res.cloudinary.com/dcpduosbb/image/upload/v1742031566/Premium_Butter_Cookies_300gm_1_wb5fir.jpg",
+        price: 190,
+    },
+    {
+        id: 15,
+        name: "Premium Choco Chips Cookies",
+        image: "https://res.cloudinary.com/dcpduosbb/image/upload/v1742031577/Premium_Choco_Chips_Cookies_350gm_1_rlsy3q.jpg",
+        price: 220,
+    },
+    {
+        id: 16,
+        name: "Salted Biscuit",
+        image: "https://res.cloudinary.com/dcpduosbb/image/upload/v1742031567/Salted_Biscuit__ddtdz9.jpg",
+        price: 180,
+    },
+];
