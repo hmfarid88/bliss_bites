@@ -5,7 +5,7 @@ import { Typewriter } from 'react-simple-typewriter'
 const Hero = () => {
     return (
         <div
-            className="hero h-[65vh]"
+            className="hero h-screen"
             style={{
                 backgroundImage: "url(/img/hero.jpg)",
             }}>
