@@ -13,7 +13,7 @@ const Page = () => {
                             <h2 className="card-title">{cake.name}</h2>
                             <p className='text-lg'><span className='text-xl'>৳</span> {cake.price}</p>
                             <div className="card-actions">
-                                <button className="btn btn-primary">Order Now &gt; 01901-347623</button>
+                                <button className="btn btn-primary">Order Now &gt; 01999-039000</button>
                             </div>
                         </div>
                     </div>
